@@ -1,0 +1,13 @@
+{
+    "DATABASE_CONFIG": {
+        "user": "root",
+        "password": "Abhi@131",
+        "host": "localhost",
+        "port": "3306",
+        "database": "employee_database"
+    },
+    "IP_CONFIG": {
+            "ip":"0.0.0.0",
+            "port":5000
+    }
+}
