@@ -1,0 +1,4 @@
+docker file creation(sudo docker build -t test-dock .)
+   docker instalizition(sudo docker images)
+   create docker file
+   run the docker file(sudo docker run -it imageid)
